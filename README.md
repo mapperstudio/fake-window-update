@@ -19,22 +19,16 @@ Fake Window Update lets you display a believable Windows update prank screen in 
 
 <table>
   <tr>
-    <td><img src="https://fakewindowupdate.com/fake-screen/blue-screen-bsod.webp" alt="Blue Screen BSOD" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/chromeos-chromebook-update.webp" alt="ChromeOS Chromebook Update" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/fake-cracked-screen-wallpaper-1.webp" alt="Fake Cracked Screen Wallpaper 1" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/fake-cracked-screen-wallpaper-2.webp" alt="Fake Cracked Screen Wallpaper 2" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://fakewindowupdate.com/fake-screen/macos-ventura-update.webp" alt="macOS Ventura Update" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/windows-10-update.webp" alt="Windows 10 Update" width="100%"></td>
     <td><img src="https://fakewindowupdate.com/fake-screen/windows-11-update.webp" alt="Windows 11 Update" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-update/fake-blue-screen-of-death.webp" alt="Fake Blue Screen of Death" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-screen/windows-10-update.webp" alt="Windows 10 Update" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-screen/macos-ventura-update.webp" alt="macOS Ventura Update" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-screen/chromeos-chromebook-update.webp" alt="ChromeOS Update" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://fakewindowupdate.com/fake-update/fake-chromeos-update-screen.webp" alt="Fake ChromeOS Update Screen" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-update/fake-macos-update-screen.webp" alt="Fake macOS Update Screen" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-update/fake-windows-10-update.webp" alt="Fake Windows 10 Update Screen" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-update/fake-windows-11-update.webp" alt="Fake Windows 11 Update Screen" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-windows-11-update.webp" alt="Fake Windows 11 Update" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-windows-10-update.webp" alt="Fake Windows 10 Update" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-macos-update-screen.webp" alt="Fake macOS Update" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-chromeos-update-screen.webp" alt="Fake ChromeOS Update" width="100%"></td>
   </tr>
 </table>
 
