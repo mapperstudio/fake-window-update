@@ -17,11 +17,16 @@ Fake Window Update lets you display a believable Windows update prank screen in 
 
 ## Screenshots
 
-![Fake Windows 11 Update Screen](https://fakewindowupdate.com/fake-update/fake-windows-11-update.webp)
-![Fake Windows 10 Update Screen](https://fakewindowupdate.com/fake-update/fake-windows-10-update.webp)
-![Fake macOS Update Screen](https://fakewindowupdate.com/fake-update/fake-macos-update-screen.webp)
-![Fake ChromeOS Update Screen](https://fakewindowupdate.com/fake-update/fake-chromeos-update-screen.webp)
-![Fake Blue Screen of Death](https://fakewindowupdate.com/fake-update/fake-blue-screen-of-death.webp)
+<table>
+  <tr>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-windows-11-update.webp" alt="Fake Windows 11 Update" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-windows-10-update.webp" alt="Fake Windows 10 Update" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-macos-update-screen.webp" alt="Fake macOS Update" width="100%"></td>
+    <td><img src="https://fakewindowupdate.com/fake-update/fake-chromeos-update-screen.webp" alt="Fake ChromeOS Update" width="100%"></td>
+  </tr>
+</table>
 
 
 ## Related Search Terms
