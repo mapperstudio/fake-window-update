@@ -1,4 +1,4 @@
-# Fake Window Update
+# Fake Windows Update Screen. Windows 10 & 11, macOS, Chrome and more
 
 **Fake Window Update** is a free online prank website that recreates realistic update screens in your browser. If you’re looking for a fake Windows update screen, a fake system update prank, or a fake loading screen for content, this tool is built for that exact use case.
 
@@ -19,24 +19,55 @@ Fake Window Update lets you display a believable Windows update prank screen in 
 
 <table>
   <tr>
-    <td><img src="https://fakewindowupdate.com/fake-screen/windows-11-update.webp" alt="Windows 11 Update" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/windows-10-update.webp" alt="Windows 10 Update" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/macos-ventura-update.webp" alt="macOS Ventura Update" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/chromeos-chromebook-update.webp" alt="ChromeOS Update" width="100%"></td>
+    <td>
+      <a href="https://fakewindowupdate.com/windows-11">
+        <img src="https://fakewindowupdate.com/fake-screen/windows-11-update.webp" alt="Fake Windows 11 Update" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://fakewindowupdate.com/windows-10">
+        <img src="https://fakewindowupdate.com/fake-screen/windows-10-update.webp" alt="Fake Windows 10 Update" width="100%">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://fakewindowupdate.com/fake-screen/blue-screen-bsod.webp" alt="Blue Screen BSOD" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/fake-cracked-screen-wallpaper-1.webp" alt="Cracked Screen 1" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-screen/fake-cracked-screen-wallpaper-2.webp" alt="Cracked Screen 2" width="100%"></td>
-    <td><img src="https://fakewindowupdate.com/fake-update/fake-blue-screen-of-death.webp" alt="Fake Blue Screen of Death" width="100%"></td>
+    <td>
+      <a href="https://fakewindowupdate.com/fake-broken-screen">
+        <img src="https://fakewindowupdate.com/fake-screen/fake-cracked-screen-wallpaper-1.webp" alt="Fake Broken Screen Prank" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://fakewindowupdate.com/blue-screen-of-death-bsod">
+        <img src="https://fakewindowupdate.com/fake-screen/blue-screen-bsod.webp" alt="Blue Screen of Death (BSOD)" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://fakewindowupdate.com/chromebook">
+        <img src="https://fakewindowupdate.com/fake-screen/chromeos-chromebook-update.webp" alt="Fake ChromeOS Update" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://fakewindowupdate.com/macos">
+        <img src="https://fakewindowupdate.com/fake-screen/macos-ventura-update.webp" alt="Fake macOS Update" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://fakewindowupdate.com/black-screen">Black Screen Preview</a>
+    </td>
+    <td>
+      <a href="https://fakewindowupdate.com/white-screen">White Screen Preview</a>
+    </td>
   </tr>
 </table>
 
-
 ## Related Search Terms
 
-People often find this website by searching for: fake window update, fake windows update, windows update prank, fake update screen, fake system update, windows loading prank, and realistic update simulator.
+People often find this website by searching for: fake windows 11 update, fake windows 10 update, fake macOS update, fake Chrome update, fake BSOD screen, fake broken screen prank, black screen prank, white screen prank, windows update prank simulator, mac update prank simulator, Chromebook prank screen, blue screen prank tool, broken display prank, and fullscreen fake update screens
 
 ---
 
-Official website: [https://fakewindowupdate.com/](https://fakewindowupdate.com/)
+Checkout our website: [https://fakewindowupdate.com/](https://fakewindowupdate.com/)
