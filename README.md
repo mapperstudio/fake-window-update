@@ -17,52 +17,15 @@ Fake Window Update lets you display a believable Windows update prank screen in 
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td>
-      <a href="https://fakewindowupdate.com/windows-11">
-        <img src="https://fakewindowupdate.com/fake-screen/windows-11-update.webp" alt="Fake Windows 11 Update" width="100%">
-      </a>
-    </td>
-    <td>
-      <a href="https://fakewindowupdate.com/windows-10">
-        <img src="https://fakewindowupdate.com/fake-screen/windows-10-update.webp" alt="Fake Windows 10 Update" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://fakewindowupdate.com/fake-broken-screen">
-        <img src="https://fakewindowupdate.com/fake-screen/fake-cracked-screen-wallpaper-1.webp" alt="Fake Broken Screen Prank" width="100%">
-      </a>
-    </td>
-    <td>
-      <a href="https://fakewindowupdate.com/blue-screen-of-death-bsod">
-        <img src="https://fakewindowupdate.com/fake-screen/blue-screen-bsod.webp" alt="Blue Screen of Death (BSOD)" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://fakewindowupdate.com/chromebook">
-        <img src="https://fakewindowupdate.com/fake-screen/chromeos-chromebook-update.webp" alt="Fake ChromeOS Update" width="100%">
-      </a>
-    </td>
-    <td>
-      <a href="https://fakewindowupdate.com/macos">
-        <img src="https://fakewindowupdate.com/fake-screen/macos-ventura-update.webp" alt="Fake macOS Update" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://fakewindowupdate.com/black-screen">Black Screen Preview</a>
-    </td>
-    <td>
-      <a href="https://fakewindowupdate.com/white-screen">White Screen Preview</a>
-    </td>
-  </tr>
-</table>
+[![Fake Windows 11 Update](https://fakewindowupdate.com/fake-screen/windows-11-update.webp)](https://fakewindowupdate.com/windows-11)
+[![Fake Windows 10 Update](https://fakewindowupdate.com/fake-screen/windows-10-update.webp)](https://fakewindowupdate.com/windows-10)
+[![Fake Broken Screen Prank](https://fakewindowupdate.com/fake-screen/fake-cracked-screen-wallpaper-1.webp)](https://fakewindowupdate.com/fake-broken-screen)
+[![Blue Screen of Death (BSOD)](https://fakewindowupdate.com/fake-screen/blue-screen-bsod.webp)](https://fakewindowupdate.com/blue-screen-of-death-bsod)
+[![Fake ChromeOS Update](https://fakewindowupdate.com/fake-screen/chromeos-chromebook-update.webp)](https://fakewindowupdate.com/chromebook)
+[![Fake macOS Update](https://fakewindowupdate.com/fake-screen/macos-ventura-update.webp)](https://fakewindowupdate.com/macos)
+[![Black Screen](https://fakewindowupdate.com/fake-screen/windows-11-update.webp)](https://fakewindowupdate.com/black-screen)
+[![White Screen](https://fakewindowupdate.com/fake-screen/windows-10-update.webp)](https://fakewindowupdate.com/white-screen)
+
 
 ## Related Search Terms
 
